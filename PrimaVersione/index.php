@@ -1,5 +1,5 @@
 <?php
-include __DIR__  . '/data.php';
+include __DIR__  . '/../api/discs/data.php';
 ?>
 <!DOCTYPE html>
 <html lang="en">
@@ -12,7 +12,7 @@ include __DIR__  . '/data.php';
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <!-- css -->
   <link rel="stylesheet" href="../css/style.css">
-  <title>PHP-AJAX-DISC</title>
+  <title>Disc</title>
 </head>
 
 <body>
