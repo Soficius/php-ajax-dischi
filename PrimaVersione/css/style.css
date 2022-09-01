@@ -1,0 +1,14 @@
+/* generics */
+body {
+    background-color: #1e2d3b;
+}
+nav {
+    height: 80px;
+    width: 100%;
+}
+.bg-grey {
+    background-color: #2e3a46;
+}
+.max-5 {
+    width: calc(100%/5);
+}
